@@ -1,1 +1,1 @@
-# finansial_experiments
+# financial_experiments
